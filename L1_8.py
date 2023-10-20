@@ -7,7 +7,7 @@ while i<len(a):
         i+=1
 print(a)
 
-
+print("   this is for git",a)
 
 
 
